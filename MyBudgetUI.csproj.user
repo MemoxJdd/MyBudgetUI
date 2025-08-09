@@ -10,6 +10,9 @@
     <Compile Update="FrmKisiDetay.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FrmKisiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FrmTaksitTakip.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -44,9 +47,6 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FrmKisiBazliRapor.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="FrmKisiEkle.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FrmKrediKartGiris.cs">

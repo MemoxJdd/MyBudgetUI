@@ -184,3 +184,4 @@ C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\refint\MyBudge
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.pdb
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.genruntimeconfig.cache
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\ref\MyBudgetUI.dll
+C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.Form1.resources
