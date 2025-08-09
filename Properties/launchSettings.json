@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyBudgetUI": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\90533\\source\\repos\\MyBudgetUI"
+    }
+  }
+}

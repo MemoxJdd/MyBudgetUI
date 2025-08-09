@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\90533\source\repos\MyBudgetUI\Properties\PublishProfiles\FolderProfile6.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKisiDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTaksitTakip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmToolStreepMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAylikOzet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBakiyeTakip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBankaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHarcamaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHarcamaListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKartExtre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKategoriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKategoriGrafik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKategoriRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKisiBazliRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKisiEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKrediKartGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOdemeGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOdemeListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
