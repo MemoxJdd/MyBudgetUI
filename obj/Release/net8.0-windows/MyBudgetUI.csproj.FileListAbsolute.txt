@@ -177,7 +177,6 @@ C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.Gen
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.AssemblyInfoInputs.cache
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.AssemblyInfo.cs
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.csproj.CoreCompileInputs.cache
-C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.sourcelink.json
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.csproj.Up2Date
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\MyBudgetUI.dll
 C:\Users\90533\source\repos\MyBudgetUI\obj\Release\net8.0-windows\refint\MyBudgetUI.dll

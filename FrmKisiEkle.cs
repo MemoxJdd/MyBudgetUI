@@ -19,7 +19,8 @@ namespace MyBudgetUI
 
         private void FrmKisiEkle_Load(object sender, EventArgs e)
         {
-            TemizleFormVeSecimi();
+            txtAd.Clear();
+            cmbRol.SelectedIndex = -1; // Seçili öğeyi kaldırır, boş görünü
             // Rol listesi
             cmbRol.DataSource = new List<string> { "baba", "anne", "çocuk", "ortak", "Ticari" };
             cmbRol.DropDownStyle = ComboBoxStyle.DropDownList;
